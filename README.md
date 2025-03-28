@@ -1,0 +1,1 @@
+# dagitik_sistem_mpi_openmp
